@@ -1,0 +1,22 @@
+Machine Learning
+Key concepts
+
+Model - 예측을 위한 수학 공식, 함수
+        1차 방정식, 확률분포, condition rule
+
+Algorithms - 어떠한 문제를 풀기위한 과정
+              Model을 생성하기 위한 (훈련) 과정
+
+모델을 학습할 때 영향을 주는 것
+
+y = ax + b
+주어진 y : 종속변수, 주어진 x : 독립변수
+a,b : 알고리즘을 통해 최적값을 찾음
+
+Feature
+- 머신러닝에서 데이터의 특징을 나타내는 변수
+- feature, 독립변수, input 변수 등은 동일의미로 사용
+- 일반적으로 Table 상에 Data를 표현할 때, Column을 의미
+- 하나의 data instance(실제 데이터)는 feature vector로 표현
+
+w(T) dot x
