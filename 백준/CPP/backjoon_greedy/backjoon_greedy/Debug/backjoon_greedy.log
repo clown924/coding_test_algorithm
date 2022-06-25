@@ -1,0 +1,5 @@
+﻿  programmers2.cpp
+C:\Users\Clown\source\repos\backjoon_greedy\backjoon_greedy\programmers2.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Clown\source\repos\backjoon_greedy\backjoon_greedy\programmers2.cpp(21,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Clown\source\repos\backjoon_greedy\backjoon_greedy\programmers2.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  backjoon_greedy.vcxproj -> C:\Users\Clown\source\repos\backjoon_greedy\Debug\backjoon_greedy.exe
